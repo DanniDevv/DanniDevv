@@ -240,5 +240,5 @@
 
     .icon2 {
         width: 20px;
-    }   
+    }
 </style>
