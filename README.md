@@ -1,71 +1,244 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
+<body>
+    <div class="container">
+        <div align="center">
+            <h1>Hey 👋, I'm Dante Rodríguez</h1>
+        </div>
+        <h2 class="intro" align="center">Passionate technology student always eager to strengthen and expand his skills in this fascinating
+            field.
+        </h2>
+    </div>
+    <div class="info">
+        <!-- cards terminal -->
+        <div class="card">
+            <div class="tools">
+                <div class="circle">
+                    <span class="red box"></span>
+                </div>
+                <div class="circle">
+                    <span class="yellow box"></span>
+                </div>
+                <div class="circle">
+                    <span class="green box"></span>
+                </div>
+            </div>
+            <div class="card__content">
+                <p> > Actualmente me encuentro cursando mi ultimo ciclo de estudios </p>
+                <p> > Soy estudiante en TECSUP</p>
+            </div>
+        </div>
+    </div>
+    <!-- Social media -->
+    <div class="social">
+        <nav>
+            <a href="https://www.linkedin.com/in/dante-samuel-rodriguez-chambi-444041279/">
+                <img class="social-icon" src="/images/linkedin.svg" alt="">
+            </a>
+            <a href="https://www.facebook.com/profile.php?id=100041512209159">
+                <img class="social-icon" src="/images/facebook.svg" alt="">
+            </a>
+            <a href="https://www.instagram.com/dantesamuelrodriguez/">
+                <img class="social-icon" src="/images/instagram.svg" alt="">
+            </a>
+        </nav>
+    </div>
+    <div class="skills">
+        <div class="skills-title">
+            <img src="/images/skills.svg" alt="">
+            <h1>Languages & Frameworks & Tools & Abilities</h1>
+        </div>
+        <nav>
+            <a href="">
+                <img class="icon" src="/images/html.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/css.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/javascript.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/typerscript.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/tailwind.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/bootstrap.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/python.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/php.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/flutter.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/kotlin.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/react.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/angular.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/astro.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/materialui.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/django.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/npm.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/pnpm.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/node.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/spring.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/express.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/sqllite.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/supabase.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon2" src="/images/mngodb.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/mysql.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/netlify.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/nextjs.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/vercel.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/vscode.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/android.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/github.svg" alt="">
+            </a>
+            <a href="">
+                <img class="icon" src="/images/git.svg" alt="">
+            </a>
+        </nav>
+    </div>
+</body>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<style>
+    @font-face {
+    font-family: 'Onest Variable';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100 900;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/onest:vf@latest/latin-wght-normal.woff2) format('woff2-variations');
+    unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+    }
+    body{
+        font-family: 'Onest Variable', sans-serif;
+    }
+    .info {
+        display: flex;
+        justify-content: center;
+    }
 
+     /* card */
+    .card {
+        width: 300px;
+        height: 154px;
+        margin: 0 auto;
+        background-color: #011522;
+        border-radius: 8px;
+        z-index: 1;
+    }
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+    .tools {
+        display: flex;
+        align-items: center;
+        padding: 9px;
+    }
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+    .circle {
+        padding: 0 4px;
+    }
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+    .box {
+        display: inline-block;
+        align-items: center;
+        width: 10px;
+        height: 10px;
+        padding: 1px;
+        border-radius: 50%;
+    }
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    .red {
+        background-color: #ff605c;
+    }
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+    .yellow {
+        background-color: #ffbd44;
+    }
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+    .green {
+        background-color: #00ca4e;
+    }
 
+    .card__content {
+        color: white;
+        margin-left: 1rem;
+    }
+    .social{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+    }
+    .social-icon{
+        width: 40px;
+    }
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 0.5rem;
+    }
+    
+    .skills-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.2rem;
+    }
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+    .social-icon,.icon, .icon2 {
+        margin: 0 10px;
+    }
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+    .icon {
+        width: 40px;
+    }
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
+    .icon2 {
+        width: 20px;
+    }   
+</style>
