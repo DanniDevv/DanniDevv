@@ -13,13 +13,13 @@
         <div class="card__content">
             <ul>
                 <li>
-                    <h3>Actualmente me encuentro cursando mi ultimo ciclo de estudios </h3>
+                    <h3>I am currently studying my last cycle of studies.</h3>
                 </li>
                 <li>
-                    <h3>Soy estudiante en TECSUP</h3>
+                    <h3>I am a student at TECSUP</h3>
                 </li>
               <li>
-                <h3>Visita mi Portfolio: <a href="https://portfolio-2-danidev.vercel.app/">DaniDev</a> </h3>
+                <h3>Visit my Portfolio: DaniDev <a href="https://portfolio-2-danidev.vercel.app/">DaniDev</a> </h3>
               </li>
             </ul>
         </div>
