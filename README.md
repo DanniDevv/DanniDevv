@@ -19,7 +19,7 @@
                     <h3>I am a TECSUP student</h3>
                 </li>
               <li>
-                <h3>Visit my Portfolio: DaniDev <a href="https://portfolio-2-danidev.vercel.app/">DaniDev</a> </h3>
+                <h3>Visit my Portfolio: <a href="https://portfolio-2-danidev.vercel.app/">DaniDev</a> </h3>
               </li>
             </ul>
         </div>
