@@ -16,7 +16,7 @@
                     <h3>I am currently studying my last cycle of studies.</h3>
                 </li>
                 <li>
-                    <h3>I am a student at TECSUP</h3>
+                    <h3>I am a TECSUP student</h3>
                 </li>
               <li>
                 <h3>Visit my Portfolio: DaniDev <a href="https://portfolio-2-danidev.vercel.app/">DaniDev</a> </h3>
