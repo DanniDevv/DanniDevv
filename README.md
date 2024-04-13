@@ -77,11 +77,5 @@
         </div>
     </div>    
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanniDevv&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanniDevv&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanniDevv&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanniDevv&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanniDevv&theme=onedark&utcOffset=8)    
+<div align="center">  
 </div>
